@@ -1,0 +1,8 @@
+/.venv
+/tests/__pycache__
+/.pytest_cache
+input.json
+output.json
+__pycache__
+.coverage
+geckodriver.log
